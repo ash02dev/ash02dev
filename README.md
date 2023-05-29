@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on developing an ADHD Recipebook<br>
-
+🔭 I’m currently working on developing an ADHD Recipebook. <br>
+🤝 I’m looking for help with everything. <br>
+🌱 I’m currently learning everything. <br>
+⚡ Fun facts: I love art and creating which makes web development all the more exciting.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agills02/) 
